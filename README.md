@@ -34,7 +34,7 @@ I build production-grade systems — from compliance pipelines and real estate C
 ## 📈 Competitive Programming
 
 - 🟨 **LeetCode** — 1509 rating · 200+ problems solved → [Profile](https://leetcode.com/u/abhiee03/)
-- 🔵 **Codeforces** — Max rating 1195(Newbie) · Completed MIT 6.006 → [Profile](https://codeforces.com/profile/abhisheknoni78)
+- 🔵 **Codeforces** — Max rating 1246(Pupil) · Completed MIT 6.006 → [Profile](https://codeforces.com/profile/abhisheknoni78)
 - ⭐ **USACO Guide** — 70+ problems (Bronze)
 
 ---
