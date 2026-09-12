@@ -13,7 +13,7 @@ I build production-grade systems — from compliance pipelines and real estate C
 | [Brokery](https://github.com/AbhiEE03/Brokery-web) | MERN · Redux Toolkit · JWT · Cloudinary · Recharts | Real Estate CRM with RBAC, two-tier edit approval, and MongoDB analytics dashboard |
 | [TrustFlow KYC](https://github.com/AbhiEE03/TrustFlow_KYC) | React · PostgreSQL · JWT | Merchant onboarding pipeline with DB-enforced state machine |
 | [Eye Strain Detector](https://github.com/AbhiEE03/Eye_Strain_Detector) | Python · OpenCV · MediaPipe | Real-time blink detection and screen proximity alerting |
-| [Sahaya](https://github.com/AbhiEE03/Sahaya) | Vanilla JS · Botpress | Rural financial literacy platform with AI chatbot |
+| [Sahaya](https://github.com/AbhiEE03/SAHAYA-Web) | Vanilla JS · Botpress | Rural financial literacy platform with AI chatbot |
 
 ---
 
